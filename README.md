@@ -5,5 +5,6 @@
 - Como evidencias se  mostrarán archivos pdf, txt, png y bmp.
 - La descripción de los códigos mostrados se encontaran en el Wiki de este repositorio. 
 - - Link:
+https://github.com/Xuxumin99/Multiprocesadores2022/wiki
 
 - Solo se uso lenguaje C.
